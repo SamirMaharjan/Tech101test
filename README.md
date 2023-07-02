@@ -2,7 +2,7 @@
 #laravel version 8
 #Starter Guide.
  1 Create a database named tech101 or change database at .env file accodingly.
- 2 open the project in terminal and hit php artisan migrate
+ 2 open the project in terminal and hit php artisan migrate:fresh --seed
  3 once database is migrated, password for login is password and for email we can pick any one from db
 
 What You asked for:
